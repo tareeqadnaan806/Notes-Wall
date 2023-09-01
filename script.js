@@ -8,6 +8,5 @@ document.getElementById("button").addEventListener("click", ()=>{
     `
     note.style.backgroundColor = color
     document.getElementById("note").append(note)
-    Value = "s"
+    document.getElementById("inputValue").value = ""
 })
-
