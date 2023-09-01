@@ -18,8 +18,7 @@ Notes wall is a web-based notes application designed to streamline your note-tak
 
 6. you note will be added
 
-
 ## Contributing
-Contributions to QuickNotes are welcome and encouraged! If you'd like to contribute, please follow these steps:
+Contributions to Notes-wall are welcome and encouraged!
 
 Feel free to fork the repository.
